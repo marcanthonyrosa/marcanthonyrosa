@@ -1,6 +1,6 @@
 # Marc Rosa
 
-Product for 15 years. These days I'm writing the code too.
+Product for 15 years. These days I'm writing some code too.
 
 Currently building [Sugo AI](https://sugoai.com) — a product studio for companies that aren't software companies. Also embedded at the Texas Medical Center leading AI product development.
 
